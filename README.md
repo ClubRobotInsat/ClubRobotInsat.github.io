@@ -15,9 +15,10 @@ Pour pouvoir visualiser en local le site, il faut installer `bundler` (un truc e
 Ensuite, ces commandes devraient tout installer :
 
 ```bash
-sudo pip install cheat
+sudo apt install ruby curl
 sudo gem install rdoc bundler jekyll
 
+cd /tmp
 curl -O http://mirror.veriportal.com/gnu/gsl/gsl-2.5.tar.gz
 tar xvzf gsl-2.5.tar.gz
 cd gsl-2.5
@@ -27,6 +28,7 @@ sudo make install
 sudo gem install --conservative --no-ri --no-rdoc gsl
 
 bundler update
+bundle install minitest
 ```
 
 Enfin, en étant à la racine du répertoire `clubrobotinsat.github.io`, il faut exécuter la commande suivante :
