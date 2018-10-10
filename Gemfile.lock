@@ -198,7 +198,7 @@ GEM
       jekyll-seo-tag (~> 2.0)
     jekyll-titles-from-headings (0.5.1)
       jekyll (~> 3.3)
-    jekyll-watch (2.0.0)
+    jekyll-watch (2.1.0)
       listen (~> 3.0)
     jemoji (0.10.1)
       gemoji (~> 3.0)
@@ -219,7 +219,7 @@ GEM
     minitest (5.11.3)
     multipart-post (2.0.0)
     narray (0.6.1.2)
-    nokogiri (1.8.4)
+    nokogiri (1.8.5)
       mini_portile2 (~> 2.3.0)
     octokit (4.12.0)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -269,4 +269,4 @@ DEPENDENCIES
   rb-gsl
 
 BUNDLED WITH
-   1.16.5
+   1.16.6

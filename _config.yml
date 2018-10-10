@@ -23,6 +23,14 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:    https://plus.google.com/u/0/102602916593522619858
 
+authors:
+  bigey:
+    name:        bigey
+    avatar:      bigey.png
+    email:       bigey@etud.insa-toulouse.fr
+    description: Pôle informatique de 2016 à 2019
+    github:      Terae
+
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-126252623-1
 google_verify:

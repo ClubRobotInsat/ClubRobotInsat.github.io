@@ -1,4 +1,11 @@
 <meta charset="utf-8">
+{% if page.author != nil %}
+    {% assign author = site.authors[page.author] %}
+{% endif %}
+
+{% if page.author == nil %}
+    {% assign author = site.owner %}
+{% endif %}
 <title>{% if page.title %}{{ page.title | upcase }}{% else %}{{ site.title | upcase }}{% endif %}</title>
 <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 {% if page.tags %}<meta name="keywords" content="{{ page.tags | join: ', ' }}">{% endif %}
