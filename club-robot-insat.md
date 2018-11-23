@@ -7,9 +7,9 @@ image:
   feature: Club-Robot-INSAT.png
 ---
 
-Le Club Robot est une association qui regroupe des élèves ingénieurs de l'[INSA Toulouse](http://www.insa-toulouse.fr/fr/index.html) autour d'une passion commune : la robotique.
+Le Club Robot est une association qui regroupe des élèves ingénieurs de l'[INSA Toulouse](https://www.insa-toulouse.fr/fr/index.html) autour d'une passion commune : la robotique.
 
-Réunis dans notre local au [DGEI](http://gei.insa-toulouse.fr/fr/index.html) (Département Génie Électrique et Informatique) de l'INSA, nous réalisons pendant notre temps libre un robot dans l'objectif de participer à la [Coupe de France de Robotique](https://www.coupederobotique.fr/).
+Réunis dans notre local au [DGEI](https://gei.insa-toulouse.fr/fr/index.html) (Département Génie Électrique et Informatique) de l'INSA, nous réalisons pendant notre temps libre un robot dans l'objectif de participer à la [Coupe de France de Robotique](https://www.coupederobotique.fr/).
 
 <img src="{{ site.url }}/images/baniere.png" alt="Club Robot INSAT">
 

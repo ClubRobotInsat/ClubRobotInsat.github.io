@@ -21,6 +21,6 @@ C'est avec plaisir que nous annonçons notre nouveau partenariat avec **Smile Em
 Au sein du groupe Smile (1er intégrateur de solutions open source en Europe), **Smile Embedded & Connected Systems** est un centre d'excellence entièrement dédié aux systèmes embarqués et aux objets connectés, et s'impose comme le pôle de référence des métiers de l'embarqué en environnement Open Source.
 Nous remercions **Smile ECS** de contribuer à notre projet à titre financier et consultatif grâce à son expertise.
 
-<div style="text-align: center"><a href="https://www.smile.eu/fr/groupe/qui-sommes-nous"><img src="http://clubrobotinsat.github.io/images/sponsors/smile.png" style="width: 300px;"/></a></div>
+<div style="text-align: center"><a href="https://www.smile.eu/fr/groupe/qui-sommes-nous"><img src="https://clubrobotinsat.github.io/images/sponsors/smile.png" style="width: 300px;"/></a></div>
 
 Vous trouverez donc le logo du groupe Smile apposé fièrement sur les coques de nos robots.
