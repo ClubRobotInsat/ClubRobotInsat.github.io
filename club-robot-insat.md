@@ -17,7 +17,9 @@ Le Club est ouvert à tous les INSAïens, **de la 1ère à la 5ème année**. No
 
 Un enjeu majeur de notre association est de partager les connaissances. Ainsi, le premier semestre est consacré à la formation des nouveaux membres et l'ensemble du travail réalisé est documenté pour être rendu accessible. Le second semestre permets de concevoir le robot spécifique au cahier des charges pour proposer le meilleur robot possible.
 
-# Nous contacter
+# Nous rejoindre ou nous contacter
+
+Pour nous rejoindre ou simplement parler avec nous, n'hésitez pas à rejoindre notre [discord](https://discord.gg/54Wsdf). Si le lien ne fonctionne plus, prévenez-nous à l'adresse mail ci-dessous.
 
 Vous pouvez nous envoyer un e-mail à cette adresse : <a href="mailto:club.robot@amicale-insat.fr">club.robot@amicale-insat.fr</a>
 
