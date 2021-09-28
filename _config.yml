@@ -57,6 +57,9 @@ links:
   - title: GitHub
     url: https://github.com/clubrobotinsat/
     external: true
+  - title: Discord
+    url: https://discord.com/invite/HRrErYtpGf
+    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
