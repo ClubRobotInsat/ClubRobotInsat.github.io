@@ -35,3 +35,4 @@ FB: Club Robot INSA Toulouse
 🤖 Robotiquement !
 
 ![Photo du bureau](https://media-exp1.licdn.com/dms/image/C4D22AQGONS-PumFQbw/feedshare-shrink_2048_1536/0/1634580805135?e=1637193600&v=beta&t=URiPz1mYjqEL1AHSvTww86H3HpLEMc9spyqviX0kPJw)
+
