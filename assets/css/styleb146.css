@@ -7,6 +7,16 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif; }
 
+/* css for the carrousel */
+.summer-site-head-content-carousel {
+  display: flex;
+  max-width: 100%;
+}
+.summer-site-head-content-carousel div {
+  flex-grow: 1;
+  width: 100%
+}
+/* end of the css for the carrousel */
 .summer-blog-menu {
   padding-top: 0;
   padding-bottom: 0;
