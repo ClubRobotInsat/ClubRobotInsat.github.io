@@ -19,7 +19,7 @@ Un enjeu majeur de notre association est de partager les connaissances. Ainsi, l
 
 # Nous rejoindre ou nous contacter
 
-Pour nous rejoindre ou simplement parler avec nous, n'hésitez pas à rejoindre notre [discord](https://discord.gg/54Wsdf). Si le lien ne fonctionne plus, prévenez-nous à l'adresse mail ci-dessous.
+Pour nous rejoindre ou simplement parler avec nous, n'hésitez pas à rejoindre notre [discord](https://discord.com/invite/3t6WRAXk4G). Si le lien ne fonctionne plus, prévenez-nous à l'adresse mail ci-dessous.
 
 Vous pouvez nous envoyer un e-mail à cette adresse : <a href="mailto:club.robot@amicale-insat.fr">club.robot@amicale-insat.fr</a>
 
