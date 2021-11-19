@@ -25,6 +25,28 @@ Vous pouvez nous envoyer un e-mail à cette adresse : <a href="mailto:club.robot
 
 Nous nous réunissons tous les jeudis entre 14h et 18h. Notre local se trouve au RdC du GEI, à droite en rentrant dans le hall.
 
+# Mission du club :
+
+```
+📣 Promouvoir la robotique entre les étudiants de l'INSA Toulouse.
+```
+
+```
+🤖 Doter à la communauté de l'INSA Toulouse d'un espace où pratiquer la robotique de compétition.
+```
+
+```
+📚 Assurer la formation en robotique aux membres de l'association.
+```
+
+```
+🗣️ Agir comme une organisation sociale pour les étudiants intéressés par la robotique.
+```
+
+```
+🌍 Représenter l'INSA Toulouse dans des différentes compétitions de robotique au monde
+```
+
 # Statuts
 
 [Statuts - PDF]({{ site.url }}/assets/documents/Statuts Club Robot INSA Toulouse - 1 oct 2021.pdf)
