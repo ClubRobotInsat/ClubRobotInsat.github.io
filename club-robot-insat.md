@@ -25,4 +25,6 @@ Vous pouvez nous envoyer un e-mail à cette adresse : <a href="mailto:club.robot
 
 Nous nous réunissons tous les jeudis entre 14h et 18h. Notre local se trouve au RdC du GEI, à droite en rentrant dans le hall.
 
-<img src="{{ site.url }}/images/plan.png" alt="Plan pour aller au Club Robot">
+# Statuts
+
+[Statuts - PDF]({{ site.url }}/documents/Statuts Club Robot INSA Toulouse - 1 oct 2021.pdf)
