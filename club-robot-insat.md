@@ -28,3 +28,7 @@ Nous nous réunissons tous les jeudis entre 14h et 18h. Notre local se trouve au
 # Statuts
 
 [Statuts - PDF]({{ site.url }}/assets/documents/Statuts Club Robot INSA Toulouse - 1 oct 2021.pdf)
+
+# Règlement intérieur
+
+[Règlement intérieur - PDF]({{ site.url }}/assets/documents/Règlement intérieur Club Robot INSA Toulouse_1er octobre 2021.pdf)
