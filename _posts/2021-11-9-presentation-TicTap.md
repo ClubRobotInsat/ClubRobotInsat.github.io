@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: "Présentation du club!"
+title: "Présentation du nouveau sponsor TicTap!"
 mathjax: false
 featured: true
 comments: false
