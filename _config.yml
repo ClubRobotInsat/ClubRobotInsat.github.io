@@ -41,7 +41,7 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: About us
     url: /club-robot-insat
     external: false
     icon: home
