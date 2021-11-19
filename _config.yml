@@ -45,12 +45,15 @@ links:
     url: /club-robot-insat
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
+#  - title: Featured Posts
+#    url: /featured
   - title: Categories
     url: /categories
   #- title: About
   #  url: /club-robot-insat
+  - title: LinkedIn
+    url: https://www.linkedin.com/company/club-robot-insa-toulouse
+    external: true
   - title: Doc
     url: https://clubrobotinsat.github.io/doc/
     external: true
