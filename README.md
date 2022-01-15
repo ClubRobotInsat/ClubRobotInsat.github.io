@@ -56,3 +56,13 @@ Le site est alors visualisable sur `localhost:4000` si tout s'est bien passé.
     * vérifier localement que tout est bon avec les drafts : `bundler exec jekyll serve --watch --drafts`
     * publier un draft : `bundle exec jekyll publish _drafts/my-new-draft.md`
     * publier un draft avec une date spécifique : `bundle exec jekyll publish _drafts/my-new-draft.md --date 2018-01-18`
+
+
+
+## Écrire des phrases pour la wall of shame:
+1. Copier un des fichiers existants pour avoir le format et le renommer avec
+la date de si tu la connais pas met une date au hazar ( recommendé 0000-01-01 ) et aprés le nom de la personne que l'a dit.
+Tu peux definir un ```altDate: "texte"``` pour expliquer le contexte, par exemple J-2 avant la coupe.
+
+2. Aprés, il faut écrire l'autheur qui est tuoi, la personne qui écrit la phrase sur le site, 
+et le génie que c'est la personne qui l'a dit. 
