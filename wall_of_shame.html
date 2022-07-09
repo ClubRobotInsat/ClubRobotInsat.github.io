@@ -9,7 +9,8 @@ description: "Une archive pour les posts triée par catégories."
 
 <!--Will prioritize the altDate over the normal date if it exists-->
 <ul class="post-list">
-  {% for tag in site.wall %}
+  {% assign items = site.wall | reverse %}
+  {% for tag in items %}
   <li><a href="{{site.url}}{{tag.url}}">{{ tag.content }} </a><span>
     {% if tag.altDate %}
       - {{ tag.genie }} | {{ tag.altDate }}

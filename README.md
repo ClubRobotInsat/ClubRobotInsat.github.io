@@ -19,7 +19,7 @@ sudo apt install ruby curl
 sudo gem install rdoc bundler jekyll
 
 cd /tmp
-curl -O http://mirror.veriportal.com/gnu/gsl/gsl-2.5.tar.gz
+curl -O https://mirror.ibcp.fr/pub/gnu/gsl/gsl-2.5.tar.gz # http://mirror.veriportal.com/gnu/gsl/gsl-2.5.tar.gz
 tar xvzf gsl-2.5.tar.gz
 cd gsl-2.5
 ./configure
