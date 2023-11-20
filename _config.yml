@@ -1,36 +1,36 @@
-title:            Club de Robotique - INSA Toulouse
-description:      Club Robot
-logo:             logo.png
+title: Club de Robotique - INSA Toulouse
+description: Club Robot
+logo: logo.png
 disqus_shortname: club-robot-insat
-share:            true
+share: true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  https://clubrobotinsat.github.io
+url: https://clubrobotinsat.github.io
 enforce_ssl: clubrobotinsat.github.io
 
 # Owner/author information
 owner:
-  name:           club-robot
-  avatar:         avatar.png
-  email:          club.robot@amicale-insat.fr
+  name: club-robot
+  avatar: avatar.png
+  email: club.robot@amicale-insat.fr
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Association étudiante autour de la robotique
+  description: Association étudiante autour de la robotique
   # Social networking links used in footer. Update and remove as you like.
   # twitter:        mytwitter
-  facebook:       ClubRobotINSAT
-  github:         clubrobotinsat
-  instagram:      club.robot
+  facebook: ClubRobotINSAT
+  github: clubrobotinsat
+  instagram: club.robot
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:    https://plus.google.com/u/0/102602916593522619858
 
 authors:
   bigey:
-    name:        bigey
-    avatar:      bigey.png
-    email:       bigey@etud.insa-toulouse.fr
+    name: bigey
+    avatar: bigey.png
+    email: bigey@etud.insa-toulouse.fr
     description: Pôle informatique de 2016 à 2019
-    github:      Terae
+    github: Terae
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-126252623-1
@@ -41,39 +41,39 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: About us
-    url: /club-robot-insat
-    external: false
-    icon: home
-#  - title: Featured Posts
-#    url: /featured
-  - title: Categories
-    url: /categories
-  #- title: About
-  #  url: /club-robot-insat
-  - title: LinkedIn
-    url: https://www.linkedin.com/company/club-robot-insa-toulouse
-    external: true
-  - title: Doc
-    url: https://clubrobotinsat.github.io/doc/
-    external: true
-  - title: GitHub
-    url: https://github.com/clubrobotinsat/
-    external: true
-  - title: Discord
-    url: https://discord.com/invite/HRrErYtpGf
-    external: true
+- title: About us
+  url: /club-robot-insat
+  external: false
+  icon: home
+  #  - title: Featured Posts
+  #    url: /featured
+- title: Categories
+  url: /categories
+#- title: About
+#  url: /club-robot-insat
+- title: LinkedIn
+  url: https://www.linkedin.com/company/club-robot-insa-toulouse
+  external: true
+- title: Doc
+  url: https://clubrobotinsat.github.io/docs/
+  external: true
+- title: GitHub
+  url: https://github.com/clubrobotinsat/
+  external: true
+- title: Discord
+  url: https://discord.com/invite/HRrErYtpGf
+  external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Paris
-future:      true
+timezone: Europe/Paris
+future: true
 highlighter: rouge # pygments
-markdown:    kramdown
-paginate:    5
+markdown: kramdown
+paginate: 5
 paginate_path: "page:num"
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink: /:categories/:title
 
 kramdown:
   auto_ids: true
