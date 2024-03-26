@@ -37,6 +37,12 @@ authors:
     email: rbonnet@etud.insa-toulouse.fr
     description: Président 2023-2024
     github: BloodFutur
+  triet:
+    name: Triet Nguyen
+    avatar: triet.jpg
+    email: tr_nguye@insa-toulouse.fr
+    description : Responsable communication 2023-2024
+    github: trietngh
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-126252623-1
